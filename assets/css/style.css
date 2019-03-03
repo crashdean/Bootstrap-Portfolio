@@ -1,0 +1,33 @@
+body {
+    height: 100%;
+    width: 100%; 
+    background-image: url(../images/background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.image1 {
+    width: 220px;
+    height: 210px;
+    padding: 0px;
+    margin-left: 0;
+    float: left;
+}
+
+.container {
+    margin-top: 20px;
+    background-color: white;
+}
+
+.navbar.bg-light {
+    background-color: white !important;
+    border: 1px solid #1a1a1a;
+}
+
+.contact {
+    margin-top: 20px;
+    margin-left: 40px;
+    width: 960px;
+    background-color: white !important;
+}
+
