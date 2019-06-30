@@ -7,11 +7,15 @@ body {
 }
 
 .image1 {
-    width: 220px;
-    height: 210px;
-    padding: 0px;
+    width: 250px;
+    height: 250px;
+    padding: 0px 5px 0px 0px;
     margin-left: 0;
     float: left;
+}
+
+.boarder {
+    padding: 0px 5px 0px 0px;
 }
 
 .container {
