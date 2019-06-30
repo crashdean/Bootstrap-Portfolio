@@ -7,19 +7,20 @@ body {
 }
 
 .image1 {
-    width: 250px;
-    height: 250px;
-    padding: 0px 5px 0px 0px;
-    margin-left: 0;
+    width: 300px;
+    height: 300px;
+    padding: 0px 10px 0px 0px;
+    
     float: left;
+
 }
 
-.boarder {
-    padding: 0px 5px 0px 0px;
+.about {
+    margin: 0px 0px 0px 0px;
 }
 
 .container {
-    margin-top: 20px;
+    margin-top: 40px;
     background-color: white;
 }
 
